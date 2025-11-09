@@ -1,7 +1,7 @@
 # Write-up 0: template
 
-**Name:** Khoa Hoang  
-**Student ID:** khoang99  
+**Name:** Yannie Lam  
+**Student ID:** ylam4  
 **Date:** 11/11/2025  
 
 ---
@@ -20,7 +20,26 @@ This is the main part of your write-up.
 You can include explanations, examples, and notes 
 
 You can use some text formating, lists, and tables to imporve the write-up readability
-#### **Text Formatting**
+
+HW Part A Answer the following questions:
+
+-  Fill in the blank: "Git provides a history  of content changes"
+
+Which git command shows you the historical graphical representation of branching and merging events?
+
+- git log --graph --decorate --abbrev-commit --all --pretty=oneline 
+HW Part B
+
+Add your completion screenshots here (Introduction Sequence and Push & Pull — Git Remotes!).
+
+Introduction Sequence — 4/4 complete:
+Attach image(s) here
+
+Push & Pull — Git Remotes! — 8/8 complete:
+Attach image(s) here
+
+
+#### **Text ng*
 
 You can make text **bold**, *italic*, or even ***bold and italic*** for emphasis.
 

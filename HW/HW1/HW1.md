@@ -174,21 +174,34 @@ As a project grows and more people get involved, it becomes harder to keep track
 ## HW Submission
 
 **HW Part A**
-Answer the following questions:
-- Fill in the blank: "Git provides a ... of content changes"
+Answer the following questions:- Fill in the blank: "Git provides a ... of content changes"
+
+history
 
 - Which git command shows you the historical graphical representation of branching and merging events?
 
-**HW Part B**
+git log --graph --decorate --abbrev-commit --all --pretty=oneline
+≈**HW Part B**
 
 > Add your completion screenshots here (Introduction Sequence and Push & Pull — Git Remotes!).
 
 - Introduction Sequence — 4/4 complete:  
   _Attach image(s) here_
+	![intro 1 Complete](Screenshot 2025-11-05 at 8.09.46 PM.png)
+	![intro 2 Complete](Screenshot 2025-11-08 at 10.27.37 PM.png)
+	![intro 3 Complete](Screenshot 2025-11-05 at 8.24.28 PM.png)
+	![intro 4 Complete](Screenshot 2025-11-08 at 12.19.44 AM.png)
 
 - Push & Pull — Git Remotes! — 8/8 complete:  
   _Attach image(s) here_
-
+	![remote 1 Complete](Screenshot 2025-11-08 at 8.39.00 PM.png)
+	![remote 2 Complete](Screenshot 2025-11-08 at 8.43.56 PM.png)
+	![remote 3 Complete](Screenshot 2025-11-08 at 8.47.03 PM.png)
+	![remote 4 Complete](Screenshot 2025-11-08 at 8.49.44 PM.png)
+	![remote 5 Complete](Screenshot 2025-11-08 at 8.57.18 PM.png)
+	![remote 6 Complete](Screenshot 2025-11-08 at 8.59.23 PM.png)
+	![remote 7 Complete](Screenshot 2025-11-08 at 9.11.25 PM.png)
+	![remote 8 Complete](Screenshot 2025-11-08 at 9.25.24 PM.png)
 **HW Part C**
 
 - Submit the **URL of this Markdown file** to **Canvas** after you are done. This is the github URL to files in your fork repo on `main` branch.

@@ -187,23 +187,22 @@ git log --graph --decorate --abbrev-commit --all --pretty=oneline
 
 - Introduction Sequence — 4/4 complete:  
   _Attach image(s) here_
-	![intro 1 Complete](Screenshot 2025-11-05 at 8.09.46 PM.png)
-	![intro 2 Complete](Screenshot 2025-11-08 at 10.27.37 PM.png)
-	![intro 3 Complete](Screenshot 2025-11-05 at 8.24.28 PM.png)
-	![intro 4 Complete](Screenshot 2025-11-08 at 12.19.44 AM.png)
+![intro 1 Complete](intro1.png)
+![intro 2 Complete](intro2.png)
+![intro 3 Complete](intro3.png)
+![intro 4 Complete](intro4.png)
 
 - Push & Pull — Git Remotes! — 8/8 complete:  
   _Attach image(s) here_
-	![remote 1 Complete](Screenshot 2025-11-08 at 8.39.00 PM.png)
-	![remote 2 Complete](Screenshot 2025-11-08 at 8.43.56 PM.png)
-	![remote 3 Complete](Screenshot 2025-11-08 at 8.47.03 PM.png)
-	![remote 4 Complete](Screenshot 2025-11-08 at 8.49.44 PM.png)
-	![remote 5 Complete](Screenshot 2025-11-08 at 8.57.18 PM.png)
-	![remote 6 Complete](Screenshot 2025-11-08 at 8.59.23 PM.png)
-	![remote 7 Complete](Screenshot 2025-11-08 at 9.11.25 PM.png)
-	![remote 8 Complete](Screenshot 2025-11-08 at 9.25.24 PM.png)
+![remote 1 Complete](remote1.png)
+![remote 2 Complete](remote2.png)
+![remote 3 Complete](remote3.png)
+![remote 4 Complete](remote4.png)
+![remote 5 Complete](remote5.png)
+![remote 6 Complete](remote6.png)
+![remote 7 Complete](remote7.png)
+![remote 8 Complete](remote8.png)
 **HW Part C**
-
 - Submit the **URL of this Markdown file** to **Canvas** after you are done. This is the github URL to files in your fork repo on `main` branch.
 
 **HW Part D (optional)**

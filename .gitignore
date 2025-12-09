@@ -2,3 +2,5 @@
 Environment/$SCRATCH/
 *.sif
 Environment/$SCRATCH/
+Data/bacteria.db
+Data/all_protein_ids.txt

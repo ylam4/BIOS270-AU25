@@ -7,6 +7,9 @@
 #SBATCH --mem=4G
 #SBATCH --time=04:00:00
 
+module load apptainer
+export RUN="singularity run -B /farmshare/user_data/$USER,/farmshare/home/classes/bios/270 /farmshare/home/classes/bios/270/envs/bioinformatics_latest.sif"
+
 DATABASE="bacteria.db"
 $RUN python insert_gff_table.py --database_path $DATABASE
 $RUN python insert_protein_cluster_table.py --database_path $DATABASE
